@@ -1,0 +1,108 @@
+{
+	"lcheck": [
+		{
+			"srNo": 1,
+			"estimatedStartTime": "07:15",
+			"activity": "Morning Checks",
+			"startTime": "09:07:40",
+			"endTime": "09:10:23",
+			"timeTaken": "00:02:10",
+			"status": ["Completed", "In progress", "pending"],
+			"ticketNo": "",
+			"remarks": "",
+			"action": "",
+			"assignTo": "Ramesh"
+		},
+		{
+			"srNo": 2,
+			"estimatedStartTime": "07:30",
+			"activity": "Handover Taken",
+			"startTime": "08:27:11",
+			"endTime": "08:27:24",
+			"timeTaken": "00:00:13",
+			"status": "Completed",
+			"ticketNo": "",
+			"remarks": "",
+			"action": "",
+			"assignTo": "Suresh"
+		},
+		{
+			"srNo": 3,
+			"estimatedStartTime": "07:45",
+			"activity": "Server Check",
+			"startTime": "09:37:11",
+			"endTime": "09:38:24",
+			"timeTaken": "00:01:13",
+			"status": "Completed",
+			"ticketNo": "",
+			"remarks": "",
+			"action": "",
+			"assignTo": "Ganesh"
+		},
+		{
+			"srNo": 4,
+			"estimatedStartTime": "08:00",
+			"activity": "Network Check",
+			"startTime": "10:47:11",
+			"endTime": "10:48:24",
+			"timeTaken": "00:01:13",
+			"status": "Completed",
+			"ticketNo": "",
+			"remarks": "",
+			"action": "",
+			"assignTo": "Mangesh"
+		},
+		{
+			"srNo": 5,
+			"estimatedStartTime": "07:15",
+			"activity": "Morning Checks",
+			"startTime": "09:07:40",
+			"endTime": "09:10:23",
+			"timeTaken": "00:02:10",
+			"status": ["Completed", "In progress", "pending"],
+			"ticketNo": "",
+			"remarks": "",
+			"action": "",
+			"assignTo": "Ramesh"
+		},
+		{
+			"srNo": 6,
+			"estimatedStartTime": "07:30",
+			"activity": "Handover Taken",
+			"startTime": "08:27:11",
+			"endTime": "08:27:24",
+			"timeTaken": "00:00:13",
+			"status": "Completed",
+			"ticketNo": "",
+			"remarks": "",
+			"action": "",
+			"assignTo": "Suresh"
+		},
+		{
+			"srNo": 7,
+			"estimatedStartTime": "07:45",
+			"activity": "Server Check",
+			"startTime": "09:37:11",
+			"endTime": "09:38:24",
+			"timeTaken": "00:01:13",
+			"status": "Completed",
+			"ticketNo": "",
+			"remarks": "",
+			"action": "",
+			"assignTo": "Ganesh"
+		},
+		{
+			"srNo": 8,
+			"estimatedStartTime": "08:00",
+			"activity": "Network Check",
+			"startTime": "10:47:11",
+			"endTime": "10:48:24",
+			"timeTaken": "00:01:13",
+			"status": "Completed",
+			"ticketNo": "",
+			"remarks": "",
+			"action": "",
+			"assignTo": "Mangesh"
+		}
+	]
+}

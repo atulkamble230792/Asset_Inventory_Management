@@ -1,0 +1,74 @@
+{
+	"dashboard": [
+		{
+			"SrNo": "1",
+			"ApplicationName": "Fcr",
+			"Completed": "3",
+			"CompletedWithIssue": "0",
+			"Running": "2",
+			"Pending": "4",
+			"Skip": "0",
+			"Hold": "0",
+			"Abort": "0",
+			"Holiday": "0",
+			"Nothing": "0",
+			"ChecklistAuthStatus": "0"
+		},
+		{
+			"SrNo": "2",
+			"ApplicationName": "FCC",
+			"Completed": "4",
+			"CompletedWithIssue": "0",
+			"Running": "2",
+			"Pending": "8",
+			"Skip": "0",
+			"Hold": "0",
+			"Abort": "0",
+			"Holiday": "0",
+			"Nothing": "1",
+			"ChecklistAuthStatus": "0"
+		},
+		{
+			"SrNo": "3",
+			"ApplicationName": "Newgen",
+			"Completed": "2",
+			"CompletedWithIssue": "0",
+			"Running": "5",
+			"Pending": "2",
+			"Skip": "0",
+			"Hold": "0",
+			"Abort": "0",
+			"Holiday": "0",
+			"Nothing": "0",
+			"ChecklistAuthStatus": "1"
+		},
+		{
+			"SrNo": "4",
+			"ApplicationName": "Retail Asset",
+			"Completed": "4",
+			"CompletedWithIssue": "0",
+			"Running": "1",
+			"Pending": "6",
+			"Skip": "0",
+			"Hold": "0",
+			"Abort": "0",
+			"Holiday": "2",
+			"Nothing": "0",
+			"ChecklistAuthStatus": "0"
+		},
+		{
+			"SrNo": "5",
+			"ApplicationName": "YColors",
+			"Completed": "3",
+			"CompletedWithIssue": "0",
+			"Running": "2",
+			"Pending": "4",
+			"Skip": "0",
+			"Hold": "0",
+			"Abort": "2",
+			"Holiday": "0",
+			"Nothing": "0",
+			"ChecklistAuthStatus": "0"
+		}
+	]
+}

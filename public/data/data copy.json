@@ -1,0 +1,40 @@
+{
+	"products": [
+		{
+			"productName": "Apple iPhone 13",
+			"quantity": 10
+		},
+		{
+			"productName": "Samsung Galaxy S22",
+			"quantity": 20
+		},
+		{
+			"productName": "Google Pixel 6",
+			"quantity": 30
+		},
+		{
+			"productName": "iPad Pro",
+			"quantity": 40
+		},
+		{
+			"productName": "MacBook Pro",
+			"quantity": 50
+		},
+		{
+			"productName": "Dell XPS 13",
+			"quantity": 60
+		},
+		{
+			"productName": "HP Spectre x360",
+			"quantity": 70
+		},
+		{
+			"productName": "Microsoft Surface Laptop Studio",
+			"quantity": 80
+		},
+		{
+			"productName": "Asus ZenBook Duo",
+			"quantity": 90
+		}
+	]
+}
